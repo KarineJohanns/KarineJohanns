@@ -1,4 +1,4 @@
-# Olá, me Karine Johanns! 
+# Olá, me chamo Karine Johanns! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 📚 Estudante de Análise e desenvolvimento de sistemas pela Uniasselvi.
