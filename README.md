@@ -24,4 +24,4 @@
 
 ## Estatísticas:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarineJohanns&layout=compact)](https://github.com/KarineJohanns/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarineJohanns&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/KarineJohanns/github-readme-stats)
